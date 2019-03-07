@@ -1,0 +1,3 @@
+In this article we covered how the default validation messages can be changed without modifying the code if the configuration is done properly beforehand
+
+We can also leverage the support of internationalization along with this to make the application more user friendly

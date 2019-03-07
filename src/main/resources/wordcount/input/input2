@@ -1,0 +1,3 @@
+Here we can take advantage of internationalization along with this Let’s say we want to show messages for a French user in their language
+
+In this case we have to add one more property file with the name the messages_fr properties in the same location No code changes required at all
